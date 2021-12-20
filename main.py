@@ -1,5 +1,5 @@
 def echo(x):
-    return("hello")
+    return x * 5
 
-("hello", 5)  
+echo("hello")  
 
